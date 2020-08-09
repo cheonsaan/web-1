@@ -1,0 +1,24 @@
+
+<head>
+<!doctype html>
+<html>
+<title>WEB1-CHEONSAN'S ARMY LIFE</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1><a href="1.html">조천산의 군생활</a></h1>
+<p>안녕 나는 천산이야
+이제부터 나의 군생활에 대해서 알려줄게.
+<br>나는 상근예비역으로 <strong> <u>2019년 12월 17일 </u>에 입대했어.</strong></p>
+<h2>군대 일기</h2>
+<ol>
+  <li> <a href="2.html">훈련병, 이병 </a></li>
+  <li> <a href="3.html">일병</a></li>
+  <li> <a href="4.html">상병</a></li>
+  <li> <a href="5.html">병장</a></li>
+  </ol>
+
+<img src="army.jpg" width= "500" >
+</body>
+</html>
